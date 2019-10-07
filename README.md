@@ -35,7 +35,7 @@ Let's get started, follow the steps below. </br>
 * Step 3: Complete all challenges  
 
 ## Part II: Submit your assignment. 
-In this exercise, you will have to download an existing Android application, create a file and 
+In this exercise, you will have to clone an existing application, create a file and 
 modify an existing file. </br>
 Let's get strated, follow the steps below: </br>
 * Step 1: Accept the assignment invitation from this [link](https://classroom.github.com/a/nnyt-JS9) 
