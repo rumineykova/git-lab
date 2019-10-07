@@ -23,9 +23,12 @@ and the file with your student id is in the repository.
 ## Part I: Basic git skills   
 The purpose of this exercise it to practice basic git commands, and to learn about Pull Requests. </br>
 We will be using an application, called [Git-It](https://github.com/jlord/git-it-electron). </br>
+This is just an application that makes git tutorials easy. </br>
 To complete this exercise you have to complete all challenges from the Git-it application. </br>
 Let's get started, follow the steps below. </br>
-* Step 1:  Download [Git-It](https://github.com/jlord/git-it-electron)
+* Step 1:  Install the [Git-It](https://github.com/jlord/git-it-electron) application
+ * Install it form [here](https://github.com/jlord/git-it-electron/releases)
+ * If you are struggling, read the install instructions [here](https://github.com/jlord/git-it-electron) 
  Go to the git-it install page and download the app on your machine
 * Step 2: Start the application 
 * Step 3: Complete all challenges  
