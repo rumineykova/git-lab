@@ -26,8 +26,9 @@ We will be using an application, called [Git-It](https://github.com/jlord/git-it
 This is just an application that makes git tutorials easy. </br>
 To complete this exercise you have to complete all challenges from the Git-it application. </br>
 Let's get started, follow the steps below. </br>
-* Step 1:  Install the [Git-It](https://github.com/jlord/git-it-electron) application
+* Step 1:  Install the [Git-It](https://github.com/jlord/git-it-electron/releases) application
  * Install it form [here](https://github.com/jlord/git-it-electron/releases)
+ * Click and download the version that corresponds to your operating system!
  * If you are struggling, read the install instructions [here](https://github.com/jlord/git-it-electron) 
 * Step 2: Start the application 
 * Step 3: Complete all challenges  
