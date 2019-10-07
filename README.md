@@ -1,33 +1,37 @@
 # Let's learn about Git!
-* The presenrtation from the Labs is here: 
-* Git Cheatsheet is here: 
-* Read the git handbook [https://guides.github.com/introduction/git-handbook/]
+* The presenrtation from the Labs is [here](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)  
+* Git Cheatsheet is [here](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/) 
+* Read the [git handbook](https://guides.github.com/introduction/git-handbook/)
 
 # Part I: Basic git skills   
-Practice basic git commands, and issues a Pull Request. 
-To this exercise we will be using an application, called Git-it. 
+The purpose of this exercise it to practice basic git commands, and to learn about Pull Requests. 
+We will be using an application, called Git-It[https://github.com/jlord/git-it-electron]. 
 To complete this exercise you have to completing all challanges from the Git-it application. 
+Let's get strated, follow the steps below. 
 * Step 1:  Download Git-It[https://github.com/jlord/git-it-electron]
 **  Go to the git-it install page and download the app on your machine
 * Step 2: Start the application 
 * Step 3: Compelet all challanges 
 
 # Part II: Git, Android, and gradle. 
-In this exercise, you will have to download an existing Android application, and modify a file in it. 
-Follow the steps below: 
+In this exercise, you will have to download an existing Android application, create a file and 
+modify an existing file. 
+Let's get strated, follow the steps below: 
 * Step 1: Accept the assignment invitation from this [link](https://classroom.github.com/a/nnyt-JS9) 
 * Step 2: Download the repository from the assignement 
-* Step 3: Add a new file, name the file the same as your student id
-** For example, if your student name is 191827, then add a file with the name 191827.txt
-* Step 4: The file should contain: Hello, my name is [Put your name here].
-* Step 5: Commit and push your changes to the your repository assignment. 
+* Step 2: Build the application using gradle.  
+* Step 3: Open the file Welcome.java and modify the text to say: I am a git master. 
+* Step 4: Add a new file, the name of the file should be your student id
+ * For example, if your student name is 191827, then add a file with the name 191827.txt
+* Step 5: Add content to the file. The content should be: Hello, my name is [Put your name here].
+* Step 6: Commit and push your changes to your repository assignment. 
 
-# :warning: Important :warning: : This week deliverables 
-IMPORTANT: COMPLETING THIS ASSIGNEMNT IS PART OF YOUR COMPULSORY DELIVERABLES. 
+# :warning:This week deliverables 
+IMPORTANT: COMPLETING ABOVE ASSIGNEMNTs IS PART OF YOUR COMPULSORY DELIVERABLES. 
 For your deliberable to be accepted you have to: 
 * Step 1: Complete the assignement in Part I 
   * Make sure that your file is added to the COLLABORATORS folder of the Git-it repository, 
-  hence robotop has to accept your PullRequest
+  hence your your PullRequest has to be accepted. 
 * Step 2: Complete the assignment in Part II. Make sure you have pushed your changes 
 and the file with your student id is in the repository. 
 
