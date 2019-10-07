@@ -38,7 +38,7 @@ Let's get started, follow the steps below. </br>
 In this exercise, you will have to clone an existing application, create a file and 
 modify an existing file. </br>
 Let's get strated, follow the steps below: </br>
-* Step 1: Accept the assignment invitation from this [link](https://classroom.github.com/a/nnyt-JS9) 
+* Step 1: Accept the assignment invitation from this [link](https://classroom.github.com/a/OwMVRzM2) 
 * Step 2: Download the repository from the assignment link above 
 * Step 3: Open the file HelloWorld.java and modify the text to say: "I am a git master". 
 * Step 4: Add a new file, the name of the file should be your student id
