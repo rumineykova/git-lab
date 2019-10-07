@@ -5,9 +5,10 @@
 
 # Let's practice 
 
-## This week deliverables :exclamation:
-:warning: Completing assignments *Part I* and *Part II* is compulsory </br>. 
-This is your deliverable for the week. It is very importnat to complete it, demonstrating git skills is part of the minimum learning outcomes for CS2001. 
+## This week deliverables 
+:warning: Completing assignments *Part I* and *Part II* is compulsory. </br>
+This is your deliverable for the week. </br>. 
+It is very importnat to complete it, demonstrating git skills is part of the minimum learning outcomes for CS2001. </br>. 
 As a bonus, you will also get a git batch to display on you giuthub page :trophy:  </br>
 For your deliberable to be accepted you have to: 
 * Step 1: Complete the assignement in Part I 
@@ -16,7 +17,7 @@ For your deliberable to be accepted you have to:
 * Step 2: Complete the assignment in Part II. Make sure you have pushed your changes 
 and the file with your student id is in the repository. 
 
-## Part I: Basic <img src="https://i2.wp.com/linuxnewbieguide.org/wp-content/uploads/2017/02/Screen-Shot-2017-02-21-at-8.45.43-PM.png?fit=512%2C215&ssl=1" width="75">  skills   
+## Part I: Basic git skills   
 The purpose of this exercise it to practice basic git commands, and to learn about Pull Requests. </br>
 We will be using an application, called Git-It[https://github.com/jlord/git-it-electron]. </br>
 To complete this exercise you have to completing all challanges from the Git-it application. </br>
