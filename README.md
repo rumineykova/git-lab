@@ -6,11 +6,10 @@
 # Let's practice 
 
 ## :warning:This week deliverables 
-:warning: 
 Completing assignments *Part I* and *Part II* is compulsory. </br>
 This is your deliverable for the week. </br>
 It is very importnat to complete it, demonstrating git skills is part of the minimum learning outcomes for CS2001. </br>
-As a bonus, you will also get a git batch to display on you giuthub page :trophy:  </br>
+As a bonus, you will also get a git batch to display on you giuthub page :octocat:  </br>
 For your deliberable to be accepted you have to: 
 * Step 1: Complete the assignement in Part I 
   * Make sure that your file is added to the COLLABORATORS folder of the Git-it repository, 
