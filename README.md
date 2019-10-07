@@ -42,9 +42,9 @@ Let's get strated, follow the steps below: </br>
 * Step 2: Download the repository from the assignment link above 
 * Step 3: Open the file HelloWorld.java and modify the text to say: "I am a git master". 
 * Step 4: Add a new file, the name of the file should be your student id
- * For example, if your student name is 191827, then add a file with the name 191827.txt
- * Make sure that the file is in the root directory, the same directory where the readme file is
- * Do not put your file in the src directory
+  * For example, if your student name is 191827, then add a file with the name 191827.txt
+  * Make sure that the file is in the root directory, the same directory where the readme file is
+  * Do not put your file in the src directory
 * Step 5: Add content to the file. The content should be: Hello, my name is [Put your name here].
 * Step 6: Commit and push your changes to your repository assignment. 
 
