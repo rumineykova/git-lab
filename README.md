@@ -7,7 +7,7 @@
 
 
 # Let's practice 
-Before you start: cgeck that you have git installed: </br>
+Before you start: check that you have git installed: </br>
 Search for the git bash application </br>
 ## :warning:This week deliverables 
 Completing assignments *Part I* and *Part II* is compulsory. </br>
