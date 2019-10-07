@@ -3,6 +3,9 @@
 * Git Cheatsheet is [here](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/) 
 * Read the [git handbook](https://guides.github.com/introduction/git-handbook/)
 
+<img src="https://www.edureka.co/blog/wp-content/uploads/2016/11/Git-Architechture-Git-Tutorial-Edureka-2.png" width = 300> </br>
+
+
 # Let's practice 
 
 ## :warning:This week deliverables 
@@ -19,7 +22,7 @@ and the file with your student id is in the repository.
 
 ## Part I: Basic git skills   
 The purpose of this exercise it to practice basic git commands, and to learn about Pull Requests. </br>
-We will be using an application, called Git-It[https://github.com/jlord/git-it-electron]. </br>
+We will be using an application, called [Git-It](https://github.com/jlord/git-it-electron). </br>
 To complete this exercise you have to complete all challenges from the Git-it application. </br>
 Let's get started, follow the steps below. </br>
 * Step 1:  Download [Git-It](https://github.com/jlord/git-it-electron)
