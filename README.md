@@ -34,16 +34,17 @@ Let's get started, follow the steps below. </br>
 * Step 2: Start the application 
 * Step 3: Complete all challenges  
 
-## Part II: Git, Android, and gradle. 
+## Part II: Submit your assignment. 
 In this exercise, you will have to download an existing Android application, create a file and 
 modify an existing file. </br>
 Let's get strated, follow the steps below: </br>
 * Step 1: Accept the assignment invitation from this [link](https://classroom.github.com/a/nnyt-JS9) 
 * Step 2: Download the repository from the assignment link above 
-* Step 2: Build the application using gradle.  
-* Step 3: Open the file Welcome.java and modify the text to say: I am a git master. 
+* Step 3: Open the file HelloWorld.java and modify the text to say: "I am a git master". 
 * Step 4: Add a new file, the name of the file should be your student id
- * For example, if your student name is 191827, then add a file with the name 191827.txt
+  * For example, if your student name is 191827, then add a file with the name 191827.txt
+  * Make sure that the file is in the root directory, the same directory where the readme file is
+  * Do not put your file in the src directory
 * Step 5: Add content to the file. The content should be: Hello, my name is [Put your name here].
 * Step 6: Commit and push your changes to your repository assignment. 
 
@@ -59,8 +60,7 @@ You will also be listed on the lab page as Gitter of the week! </br>
 
 
 ## Part IV: Finally, it is time to test your git knowledge
-* [Solve the polleverywhere quiz](link)
-  The answers will be released next week 
+* Test your git knowledge [here](https://learn.co/lessons/git-github-learn-quiz)
 * Make sure that you can: 
   * contribute to an existing repository ([hint](https://guides.github.com/introduction/git-handbook/#github)) 
   * start a new repository and publish it on git ([hint](https://guides.github.com/introduction/git-handbook/#github))
@@ -76,7 +76,6 @@ To become better at git, you have tokeep practice. </br>
 * Visit the interactive [git console](https://learngitbranching.js.org/) and solve: 
   * Main\Introduction Sequence 1-3
   * Main\Remote Sequence 1-8
-* Test your git knowledge [here](https://learn.co/lessons/git-github-learn-quiz)
 * Prepare for your job interview by answering these git [interview questions](https://www.knowledgehut.com/interview-questions/git)
 * Complete [these challanges](https://gitexercises.fracz.com/)
 
