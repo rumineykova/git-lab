@@ -29,7 +29,6 @@ Let's get started, follow the steps below. </br>
 * Step 1:  Install the [Git-It](https://github.com/jlord/git-it-electron) application
  * Install it form [here](https://github.com/jlord/git-it-electron/releases)
  * If you are struggling, read the install instructions [here](https://github.com/jlord/git-it-electron) 
- Go to the git-it install page and download the app on your machine
 * Step 2: Start the application 
 * Step 3: Complete all challenges  
 
