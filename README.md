@@ -60,8 +60,7 @@ You will also be listed on the lab page as Gitter of the week! </br>
 
 
 ## Part IV: Finally, it is time to test your git knowledge
-* [Solve the polleverywhere quiz](link)
-  The answers will be released next week 
+* Test your git knowledge [here](https://learn.co/lessons/git-github-learn-quiz)
 * Make sure that you can: 
   * contribute to an existing repository ([hint](https://guides.github.com/introduction/git-handbook/#github)) 
   * start a new repository and publish it on git ([hint](https://guides.github.com/introduction/git-handbook/#github))
@@ -77,7 +76,6 @@ To become better at git, you have tokeep practice. </br>
 * Visit the interactive [git console](https://learngitbranching.js.org/) and solve: 
   * Main\Introduction Sequence 1-3
   * Main\Remote Sequence 1-8
-* Test your git knowledge [here](https://learn.co/lessons/git-github-learn-quiz)
 * Prepare for your job interview by answering these git [interview questions](https://www.knowledgehut.com/interview-questions/git)
 * Complete [these challanges](https://gitexercises.fracz.com/)
 
