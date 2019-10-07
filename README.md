@@ -5,8 +5,9 @@
 
 # Let's practice 
 
-## :warning:This week deliverables 
-IMPORTANT: COMPLETING ASSIGNEMNTS PART I AND PART II IS PART OF YOUR COMPULSORY DELIVERABLES. </br> 
+## This week deliverables :exclamation:
+:warning: Completing assignments *Part I* and *Part II* is compulsory </br>. 
+This is your deliverable for the week. It is very importnat to complete it, demonstrating git skills is part of the minimum learning outcomes for CS2001. 
 As a bonus, you will also get a git batch to display on you giuthub page :trophy:  </br>
 For your deliberable to be accepted you have to: 
 * Step 1: Complete the assignement in Part I 
