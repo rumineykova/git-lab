@@ -1,5 +1,4 @@
 # Let's learn about Git!
-* The presenrtation from the Labs is [here](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)  
 * Git Cheatsheet is [here](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/) 
 * Read the [git handbook](https://guides.github.com/introduction/git-handbook/)
 
