@@ -84,7 +84,7 @@ Congratulations!You have completed this lab session. </br>
 You are oficially a git master <img src="https://www.dev-metal.com/wp-content/uploads/2014/01/github-logo-octocat-1-704x605.jpg" width="48"> </br>
 
 But your git journey is far from over. Indeed, it is just starting! </br>
-To become better at git, you have tokeep practice. </br>
+To get better at git, you have to practice. </br>
 ## Practice 
 * Visit the interactive [git console](https://learngitbranching.js.org/) and solve: 
   * Main\Introduction Sequence 1-3
