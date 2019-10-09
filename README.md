@@ -61,7 +61,7 @@ Let's get strated, follow the steps below: </br>
 * __Step 5:__ Add content to the file. The content should be: Hello, my name is [Put your name here].
 * __Step 6:__ Commit and push your changes to your repository assignment. 
 
-## Part III: :feet: Git gunt: a treasure hunt game with Git
+## Part III: :feet: Git hunt: a treasure hunt game with Git
 Now when we know the basics of git, let's have some fun with it. </br>
 We will play a treasure hunt game. </br>
 Let's get started. Follow this [link](https://github.com/git-game/git-game) </br>
