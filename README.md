@@ -40,7 +40,7 @@ Let's get started, follow the steps below. </br>
 In this exercise, you will have to clone an existing application, create a file and 
 modify an existing file. </br>
 Let's get strated, follow the steps below: </br>
-* Step 1: Accept the assignment invitation from this [link](https://classroom.github.com/a/38k1-dLf) 
+* *Step 1:* Accept the assignment invitation from this [link](https://classroom.github.com/a/38k1-dLf) 
  * accepting the invitation will create a copy of this repository for you. </br>
    For example, the name of the assignement repository will be: git-lab-yourUserName
    In the above yourUserName will be yoour actual github yourname
