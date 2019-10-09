@@ -42,12 +42,12 @@ modify an existing file. </br>
 Let's get strated, follow the steps below: </br>
 * __Step 1:__ Accept the assignment invitation from this [link](https://classroom.github.com/a/38k1-dLf) 
    Accepting the invitation will create a copy of the repository for you. </br>
-   For example, the name of the assignement repository will be: git-lab-yourUserName  </br
+   The name of the assignement repository will somthing like: git-lab-yourUserName  </br
    In the above yourUserName will be yoour actual github yourname </br
-   The link to my your repository will be something along the lines of: https://github.com/BrunelCS/git-lab-yourUserName </br
-   Yours will have the same naming convention but instead of yourUserName, you will have your own github username </br
-* Step 2: Clone the repository from the assignment link above, use the git clone command
-    * Open gitBash </br
+   The link to my your repository will: https://github.com/BrunelCS/git-lab-yourUserName </br
+   Again, note that yours will have the same naming convention but instead of yourUserName, there will be your github username </br>
+* __Step 2:__ Clone the repository from the assignment link above, use the git clone command
+    * Open gitBash </br>
     * Clone the repository. For example, if the name of your repository is https://github.com/BrunelCS/git-lab-yourusername </br>
   ``` git clone https://github.com/BrunelCS/git-lab-yourusername ```
     * Move inside the repository folder </br
