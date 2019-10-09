@@ -11,7 +11,7 @@ Before you start:
 1. Create a github acccount. 
 2. check that you have git installed: </br>
 3. Open the git bash application (we will be using gitBash to write git command throughout the tutorial) </br>
-## :warning:This week deliverables 
+## :warning:This week's deliverables 
 Completing assignments *Part I* and *Part II* is compulsory. </br>
 This is your deliverable for the week. </br>
 It is very important to complete it, demonstrating git skills is part of the minimum learning outcomes for CS2001. </br>
