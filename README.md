@@ -7,8 +7,10 @@
 
 
 # Let's practice 
-Before you start: check that you have git installed: </br>
-Search for the git bash application </br>
+Before you start: 
+1. Create a github acccount. 
+2. check that you have git installed: </br>
+3. Open the git bash application (we will be using gitBash to write git command throughout the tutorial) </br>
 ## :warning:This week deliverables 
 Completing assignments *Part I* and *Part II* is compulsory. </br>
 This is your deliverable for the week. </br>
