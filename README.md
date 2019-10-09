@@ -40,25 +40,25 @@ Let's get started, follow the steps below. </br>
 In this exercise, you will have to clone an existing application, create a file and 
 modify an existing file. </br>
 Let's get strated, follow the steps below: </br>
-* *Step 1:* Accept the assignment invitation from this [link](https://classroom.github.com/a/38k1-dLf) 
- * accepting the invitation will create a copy of this repository for you. </br>
-   For example, the name of the assignement repository will be: git-lab-yourUserName
-   In the above yourUserName will be yoour actual github yourname
-   The link to my assignemnt repository is: https://github.com/BrunelCS/git-lab-yourUserName
-   Yours will have the same naming convention but instead of yourUserName, you will have your own github username
+* __Step 1:__ Accept the assignment invitation from this [link](https://classroom.github.com/a/38k1-dLf) 
+   Accepting the invitation will create a copy of the repository for you. </br>
+   For example, the name of the assignement repository will be: git-lab-yourUserName  </br
+   In the above yourUserName will be yoour actual github yourname </br
+   The link to my your repository will be something along the lines of: https://github.com/BrunelCS/git-lab-yourUserName </br
+   Yours will have the same naming convention but instead of yourUserName, you will have your own github username </br
 * Step 2: Clone the repository from the assignment link above, use the git clone command
- * Open gitBahs
- * Clone the repository. For example, if the name of your repository is https://github.com/BrunelCS/git-lab-yourusername
+    * Open gitBash </br
+    * Clone the repository. For example, if the name of your repository is https://github.com/BrunelCS/git-lab-yourusername </br>
   ``` git clone https://github.com/BrunelCS/git-lab-yourusername ```
- * Move inside the repository folder 
+    * Move inside the repository folder </br
   ```cd git-lab-yourusername ```
-* Step 3: Open the file HelloWorld.java and modify the text to say: "I am a git master". 
-* Step 4: Add a new file, the name of the file should be your student id
+* __Step 3:__ Open the file HelloWorld.java and modify the text to say: "I am a git master". 
+* __Step 4:__ Add a new file, the name of the file should be your student id
   * For example, if your student name is 191827, then add a file with the name 191827.txt
   * Make sure that the file is in the root directory, the same directory where the readme file is
   * Do not put your file in the src directory
-* Step 5: Add content to the file. The content should be: Hello, my name is [Put your name here].
-* Step 6: Commit and push your changes to your repository assignment. 
+* __Step 5:__ Add content to the file. The content should be: Hello, my name is [Put your name here].
+* __Step 6:__ Commit and push your changes to your repository assignment. 
 
 ## Part III: :feet: Git gunt: a treasure hunt game with Git
 Now when we know the basics of git, let's have some fun with it. </br>
