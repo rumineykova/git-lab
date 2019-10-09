@@ -36,7 +36,7 @@ Let's get started, follow the steps below. </br>
 * Step 2: Start the application 
 * Step 3: Complete all challenges  
 
-## Part II: Submit your assignment. 
+## Part II: Clone, Add, Commit, Pull, Push! 
 In this exercise, you will have to clone an existing application, create a file and 
 modify an existing file. </br>
 Let's get strated, follow the steps below: </br>
@@ -44,7 +44,7 @@ Let's get strated, follow the steps below: </br>
    Accepting the invitation will create a copy of the repository for you. </br>
    The name of the assignement repository will be something like: git-lab-yourusername  </br>
    In the above yourUserName will be your actual github name </br>
-   The link to my your repository will: https://github.com/BrunelCS/git-lab-yourUserName </br>
+   The link to your repository will be: https://github.com/BrunelCS/git-lab-yourUserName </br>
    Again, note that yours will have the same naming convention but instead of yourUserName, there will be your github username </br>
 * __Step 2:__ Clone the repository from the assignment link above, use the git clone command
     * Open gitBash </br>
