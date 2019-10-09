@@ -41,7 +41,17 @@ In this exercise, you will have to clone an existing application, create a file 
 modify an existing file. </br>
 Let's get strated, follow the steps below: </br>
 * Step 1: Accept the assignment invitation from this [link](https://classroom.github.com/a/38k1-dLf) 
+ * accepting the invitation will create a copy of this repository for you. </br>
+   For example, the name of the assignement repository will be: git-lab-yourUserName
+   In the above yourUserName will be yoour actual github yourname
+   The link to my assignemnt repository is: https://github.com/BrunelCS/git-lab-yourUserName
+   Yours will have the same naming convention but instead of yourUserName, you will have your own github username
 * Step 2: Clone the repository from the assignment link above, use the git clone command
+ * Open gitBahs
+ * Clone the repository. For example, if the name of your repository is https://github.com/BrunelCS/git-lab-yourusername
+  ``` git clone https://github.com/BrunelCS/git-lab-yourusername ```
+ * Move inside the repository folder 
+  ```cd git-lab-yourusername ```
 * Step 3: Open the file HelloWorld.java and modify the text to say: "I am a git master". 
 * Step 4: Add a new file, the name of the file should be your student id
   * For example, if your student name is 191827, then add a file with the name 191827.txt
