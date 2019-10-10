@@ -1,4 +1,4 @@
-# Let's learn about Git!
+# Let's learn about Git Now!
 * Git Cheatsheet is [here](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/) 
 * Read the [git handbook](https://guides.github.com/introduction/git-handbook/)
 * Useful [visualisation tools](https://try.github.io/)
