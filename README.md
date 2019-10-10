@@ -1,7 +1,8 @@
 # Let's learn about Git!
-* Git Cheatsheet is [here](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/) 
+* Git Cheatsheet is [here](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/ 
 * Read the [git handbook](https://guides.github.com/introduction/git-handbook/)
 * Useful [visualisation tools](https://try.github.io/)
+* I found an interesting tutorial
 
 <img src="https://www.edureka.co/blog/wp-content/uploads/2016/11/Git-Architechture-Git-Tutorial-Edureka-2.png" width = 300> </br>
 
